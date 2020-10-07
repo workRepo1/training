@@ -11,3 +11,5 @@
 - **Window_step_5** - реализован функционал таймера обратного отсчета.
 - **Window_step_6** - реализован функционал увеличения изображений при клике на них.
 - **Window_step_7** - дополнительные улучшения проекта.
+
+Видео https://www.youtube.com/watch?v=rubOd5v9kxc&list=PLQEds1ESt7cuCagp7xBwPbvHPDd4_sAYA
